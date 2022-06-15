@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Popsicool
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning more on data analysis softwares
-- 💞️ I’m looking to collaborate on Data analysis works that will improve my skills
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently learning more on software development
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 reach me via email at akinolasamson1234@gmail.com
 
 <!---

@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=popsicool" alt="popsicool" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Samson_Akinola1" target="_blank"><img src="https://img.shields.io/twitter/follow/samson_akinola?logo=twitter&style=for-the-badge" alt="samson_akinola" /></a> </p>
+<p align="left"> <a href="https://twitter.com/samson_akinola1" target="blank"><img src="https://img.shields.io/twitter/follow/samson_akinola1?logo=twitter&style=for-the-badge" alt="samson_akinola1" /></a> </p>
 
 - 👋, I'm Akinola Samson
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://image.spreadshirtmedia.net/image-server/v1/mp/products/T1459A839PA4459PT28D191952273W10000H7066/views/1,width=1000,height=200,appearanceId=839,backgroundColor=FFFFFF/i-love-coding.jpg)
+![MasterHead](https://image.spreadshirtmedia.net/image-server/v1/mp/products/T1459A839PA4459PT28D191952273W10000H7066/views/1,width=1000,height=200,appearanceId=839,backgroundColor=FFFFFF/i-love-coding.jpg)
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=2AF700&background=00FFE400&center=true&width=1000&lines=I+am+Akinola+Samson;A+Fullstack+developer+from+Nigeria;Software+Engineering+Student+@alx_africa;I+write+codes+for+a+better+tomorrow+🥰)](https://git.io/typing-svg)

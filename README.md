@@ -13,13 +13,13 @@
 
 - 👋, I'm Akinola Samson
 
-- 🌱 A student of **Software Engineering @alx_africa**
+- 🌱 ALX Africa Software Engineering Graduate (Cohort 8)
 
-- 💬 Ask me about **Python, Django,Django-rest-framework, FastAPI, Gingo, Golang**
+- 💬 Ask me about **Python, Django,Django-rest-framework, JavaScript, React js**
 
 - 📫 Mail me at  **akinolasamson1234@gmail.com**
 
-- 📄 Know about my experiences via [https://drive.google.com/file/d/1L-XwwNsXsvVoUJi9ywGtMLIN_fbBbta9/view?usp=sharing](https://drive.google.com/file/d/1L-XwwNsXsvVoUJi9ywGtMLIN_fbBbta9/view?usp=sharing)
+- 📄 Know about my experiences via [My Portfolio website]([https://drive.google.com/file/d/1L-XwwNsXsvVoUJi9ywGtMLIN_fbBbta9/view?usp=sharing](https://popsicool.fog-agric.com/))
 
 - ⚡ Fun fact: **I love learning!**
 

@@ -19,7 +19,7 @@
 
 - 📫 Mail me at  **akinolasamson1234@gmail.com**
 
-- 📄 Know about my experiences via [My_Portfolio_website](https://popsicool.fog-agric.com/)
+- 📄 Know about my experiences via [My_Portfolio_website](https://samson.fog-agric.com/)
 
 - ⚡ Fun fact: **I love learning!**
 
